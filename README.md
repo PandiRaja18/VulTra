@@ -1,4 +1,4 @@
-# VUlTra
+# VulTra
 
 ## Overview
 The VulTra is a VScode extension designed to detect potential vulnerabilities in Java code automatically. This tool assists developers by providing real-time vulnerability analysis,code violation, and automatic fixes via AI-powered suggestions. The primary goal is to ensure that developers write secure code, avoid common vulnerabilities, and push clean, vulnerability-free code to production.
