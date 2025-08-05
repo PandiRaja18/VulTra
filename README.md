@@ -60,3 +60,9 @@ Press Ctrl+Shift+P to open Command Palette
 Type "Java Security" to see your commands
 Or use Ctrl+Alt+V on a Java file
 ```
+
+## License and Attribution
+
+This project uses the [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) model which is licensed under the Apache License 2.0.
+
+The full license text can be found in the [LICENSE](licenses/model/LICENSE.txt) file.
